@@ -17,7 +17,10 @@ Acceder a una máquina vulnerable a través del módulo de EternalBlue y obtener
 ![Shell Meterpreter](./capturas/shell1.png)
 ![Shell Meterpreter](./capturas/shell2.png)
 ![Shell Meterpreter](./capturas/shell3.png)
+![Shell Meterpreter](./capturas/crakeo_hash.png)
+![Shell Meterpreter](./capturas/crakeo_hash2.png)
 
+crakeo_hash.png
 ## 📝 Pasos resumidos
 1. `msfconsole`
 2. `search ms17_010`
