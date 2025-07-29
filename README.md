@@ -33,4 +33,12 @@ Acceder a una máquina vulnerable a través del módulo de EternalBlue y obtener
 - [TryHackMe Room](https://tryhackme.com/room/metasploit)
 
 ---
-> 🧪 Esta práctica fue realizada en un entorno seguro y controlado con fines educativos.
+
+# 🎯 Conclusión
+
+✔️ Aprendí a usar Metasploit para explotación remota.  
+✔️ Logré escalar de shell básica a una sesión de Meterpreter.  
+✔️ Accedí a credenciales y archivos sensibles.  
+✔️ Refuerzo la importancia de parchear servicios SMB desactualizados.
+
+> 🔐 **NOTA:** Esta práctica fue realizada en un entorno cerrado, controlado y legal, exclusivamente con fines educativos. No se debe replicar en sistemas reales sin autorización expresa.
