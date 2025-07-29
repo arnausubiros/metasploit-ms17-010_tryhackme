@@ -14,7 +14,9 @@ Práctica realizada en el laboratorio de TryHackMe como parte del curso "Cyberse
 Acceder a una máquina vulnerable a través del módulo de EternalBlue y obtener una shell con permisos elevados.
 
 ## 📸 Capturas
-![Shell Meterpreter](./capturas/meterpreter_shell.png)
+![Shell Meterpreter](./capturas/shell1.png)
+![Shell Meterpreter](./capturas/shell2.png)
+![Shell Meterpreter](./capturas/shell3.png)
 
 ## 📝 Pasos resumidos
 1. `msfconsole`
