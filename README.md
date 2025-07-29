@@ -6,7 +6,7 @@ Práctica realizada en el laboratorio de TryHackMe como parte del curso "Cyberse
 - [CVE-2017-0144](https://nvd.nist.gov/vuln/detail/CVE-2017-0144)
 
 ## 🛠️ Herramientas utilizadas
-- Kali Linux
+- Maquina de TryHackMe
 - Metasploit Framework
 - Módulo: `exploit/windows/smb/ms17_010_eternalblue`
 
@@ -14,7 +14,7 @@ Práctica realizada en el laboratorio de TryHackMe como parte del curso "Cyberse
 Acceder a una máquina vulnerable a través del módulo de EternalBlue y obtener una shell con permisos elevados.
 
 ## 📸 Capturas
-![Shell Meterpreter](./screenshots/meterpreter_shell.png)
+![Shell Meterpreter](./capturas/meterpreter_shell.png)
 
 ## 📝 Pasos resumidos
 1. `msfconsole`
